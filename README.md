@@ -1,1 +1,1 @@
-This is a supplementary repository for my personal website rnd195.github.io.
+This is a supplementary repository hosting [Utteranc.es](https://utteranc.es/) comments for my personal website [rnd195.github.io](https://rnd195.github.io).
