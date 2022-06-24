@@ -1,2 +1,1 @@
-# rnd195.github.io-comments
-Utteranc.es comments for my website rnd195.github.io
+This is a supplementary repository for my personal website rnd195.github.io.
